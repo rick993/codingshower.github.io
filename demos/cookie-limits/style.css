@@ -1,0 +1,15 @@
+* {
+  font-family: Tahoma;
+}
+
+.metric {
+  color: blue;
+}
+
+.small {
+  font-size: 0.8rem;
+}
+
+.too-many-cookies {
+  display: none;
+}
